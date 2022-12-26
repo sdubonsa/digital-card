@@ -162,12 +162,12 @@ img {
   justify-content: center;
 
   gap: 25px;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
   margin-top: 19px;
 }
 
 /* EXTRA STYLING */
-a {
+.info > a {
   margin: 0;
   width: 247px;
 }

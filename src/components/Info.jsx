@@ -10,7 +10,7 @@ function Info() {
 
             <h2>Santiago Dubon</h2>
             <h4>Web Developer & Student</h4>
-            <p>github.com</p>
+            <p>The University of North Carolina at Charlotte '24</p>
 
             <div className="buttons">
                 <a href='https://www.linkedin.com/in/sdubonsa/' target='_blank' className="linkedin-btn button">

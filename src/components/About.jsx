@@ -6,7 +6,9 @@ export default function About() {
             <h3>About</h3>
             <p>I am currently a student at the University of North Carolina at Charlotte studying Computer Science.
                 I am passionate about web development and I am constantly looking for
-                opportunities to improve my skills and gain practical experience.</p>
+                opportunities to improve my skills and gain practical experience. <br /><br />
+                You can checkout my projects by clicking/tapping the GitHub icon below!
+            </p>
         </div>
     )
 }
