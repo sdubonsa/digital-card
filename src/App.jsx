@@ -1,12 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import React from "react";
 import './index.css'
+import Info from './components/Info'
 
-function App() {
-
+export default function App() {
   return (
-    <h1>Test</h1>
+    <Info />
   )
 }
-
-export default App
